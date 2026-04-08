@@ -12,7 +12,10 @@
 
 title: TripSync
 description: TripSync — school field trip coordination
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+# Hide the GitHub repo link in the Cayman theme header.
+show_downloads: false
 
 # Internal dev content — NOT published
 exclude:
