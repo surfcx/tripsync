@@ -7,15 +7,13 @@ This Privacy Policy explains how **TripSync** ("TripSync", "we", "us", or "our")
 
 By using TripSync you agree to the practices described in this Policy. If you do not agree, please do not use the Service.
 
-> ⚠️ **PLACEHOLDERS to fill in before publishing:** developer legal name and jurisdiction (e.g. "California, USA"). Search this document for `[FILL IN]` markers.
-
 ---
 
 ## 1. Who we are
 
-TripSync is operated by **[FILL IN: legal entity or developer name]** ("we"). TripSync is a school field trip coordination app that helps trip organizers, chaperones, and parents communicate and share updates during a school field trip.
+TripSync is operated by **Vertaal** ("we"). TripSync is a school field trip coordination app that helps trip organizers, chaperones, and parents communicate and share updates during a school field trip.
 
-For privacy questions, contact us at **support@tripsync.app**.
+For privacy questions, contact us at **neelagiri@outlook.com**.
 
 ---
 
@@ -172,7 +170,7 @@ Depending on where you live, you have some or all of the following rights regard
 
 To request account deletion, follow the instructions at our **Account Deletion page** (linked from our Google Play and App Store listings).
 
-To exercise any other right, email **support@tripsync.app** with the subject line that describes your request and the email address associated with your account. We respond within 30 days.
+To exercise any other right, email **neelagiri@outlook.com** with the subject line that describes your request and the email address associated with your account. We respond within 30 days.
 
 You may also contact your local data protection authority if you believe we have not handled your data lawfully.
 
@@ -188,7 +186,7 @@ TripSync is not directed at children, and children cannot sign up for or use Tri
 
 Information **about** children appears in the App because it is the nature of a school trip coordination tool. That information (name, group assignment, optional health notes, photos taken during the trip) is entered by adults — the organizer, chaperones, and the child's own parents — and is shared only with the limited group of adults responsible for that specific trip.
 
-We rely on the school or trip organizer to obtain the necessary parental or guardian consent before entering a child's information into TripSync. TripSync provides organizers and chaperones with tools to add, edit, and delete this information at any time. Parents and guardians may also request deletion of information about their child by emailing **support@tripsync.app**.
+We rely on the school or trip organizer to obtain the necessary parental or guardian consent before entering a child's information into TripSync. TripSync provides organizers and chaperones with tools to add, edit, and delete this information at any time. Parents and guardians may also request deletion of information about their child by emailing **neelagiri@outlook.com**.
 
 We do **not**:
 - Allow children to create accounts in TripSync
@@ -196,13 +194,13 @@ We do **not**:
 - Use information about children for advertising, profiling, or any purpose other than enabling trip coordination among the adults responsible for that trip
 - Share information about children with any third party except the service providers listed in Section 4.2, all of which are bound to process data only on our instructions
 
-If you believe a child's information has been entered into TripSync without proper authorization, please contact us at **support@tripsync.app** and we will investigate and remove the information promptly.
+If you believe a child's information has been entered into TripSync without proper authorization, please contact us at **neelagiri@outlook.com** and we will investigate and remove the information promptly.
 
 ---
 
 ## 9. International data transfers
 
-TripSync operates from **[FILL IN: jurisdiction]**. Our service providers (see Section 4.2) may store and process your information in the United States, the European Union, or other countries where they operate. Where personal data is transferred internationally, we rely on standard contractual clauses or equivalent safeguards.
+TripSync operates from **California, USA**. Our service providers (see Section 4.2) may store and process your information in the United States, the European Union, or other countries where they operate. Where personal data is transferred internationally, we rely on standard contractual clauses or equivalent safeguards.
 
 ---
 
@@ -226,6 +224,6 @@ We may update this Privacy Policy from time to time. When we do, we will update 
 
 ## 12. Contact us
 
-If you have any questions about this Privacy Policy or how TripSync handles your data, please email us at **support@tripsync.app**. If you need our postal mailing address (for example, to exercise a legal right that requires written correspondence), email us and we will provide it.
+If you have any questions about this Privacy Policy or how TripSync handles your data, please email us at **neelagiri@outlook.com**. If you need our postal mailing address (for example, to exercise a legal right that requires written correspondence), email us and we will provide it.
 
 If you are in the European Economic Area or the United Kingdom, you also have the right to lodge a complaint with your local data protection authority.
