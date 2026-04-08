@@ -9,8 +9,8 @@ TripSync is a school field trip coordination app that helps trip organizers, cha
 
 ## Legal
 
-- [Privacy Policy](legal/privacy-policy.html)
+- [Privacy Policy](privacy-policy.html)
 
 ## Contact
 
-Email: [support@tripsync.app](mailto:neelagiri@outlook.com)
+Email: [neelagiri@outlook.com](mailto:neelagiri@outlook.com)
