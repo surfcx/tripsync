@@ -1,1 +1,23 @@
+# GitHub Pages config for TripSync legal site
+#
+# This /docs folder is served publicly by GitHub Pages.
+# By default, Jekyll publishes EVERY file in this folder.
+# The `exclude:` list below keeps internal dev docs OUT of the public site.
+#
+# ⚠️ When you add a new internal doc under /docs, you MUST also add it
+#    to the exclude list below — otherwise it becomes publicly accessible
+#    at https://<your-user>.github.io/tripsync/<path>.
+#
+# Public pages are listed in `docs/index.md`.
+
+title: TripSync
+description: TripSync — school field trip coordination
 theme: jekyll-theme-minimal
+
+# Internal dev content — NOT published
+exclude:
+  - dev/
+  - plans/
+  - ideation/
+  - pending-tasks.md
+  - deploy.md
