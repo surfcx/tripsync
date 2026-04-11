@@ -11,7 +11,7 @@ By using TripSync you agree to the practices described in this Policy. If you do
 
 ## 1. Who we are
 
-TripSync is operated by **Vertaal** ("we"). TripSync is a school field trip coordination app that helps trip organizers, chaperones, and parents communicate and share updates during a school field trip.
+TripSync is operated by **Vartaal** ("we"). TripSync is a school field trip coordination app that helps trip organizers, chaperones, and parents communicate and share updates during a school field trip.
 
 For privacy questions, contact us at **neelagiri@outlook.com**.
 
